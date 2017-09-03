@@ -1,0 +1,1 @@
+INSERT INTO burgers_db(id,burger_name,devoured,dates) VALUES ('1','hamburger','0','2017-08-29 00:00:01'),('2','cheeseburger','0','2017-08-29 00:02:03'),('3','chicken patty','0','2017-08-29 00:05:02')
